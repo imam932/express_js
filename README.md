@@ -1,6 +1,7 @@
 # Simple API with Express
 
-## simple async with try catch
+## simple async with try catch :thumbsup:
+
 ```
 try {
        const contacts = await Contact.findAll();    
